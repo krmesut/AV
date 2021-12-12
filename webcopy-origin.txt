@@ -1,0 +1,36 @@
+Uri: https://games.smartbot.black/games
+File Name: C:\Downloaded Web Sites\games.smartbot.black\games.html
+Content Type: text/html
+
+Uri: https://games.smartbot.black/favicon.ico
+File Name: C:\Downloaded Web Sites\games.smartbot.black\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://games.smartbot.black/logo192.png
+File Name: C:\Downloaded Web Sites\games.smartbot.black\logo192.png
+Content Type: image/png
+
+Uri: https://games.smartbot.black/manifest.json
+File Name: C:\Downloaded Web Sites\games.smartbot.black\manifest.json
+Content Type: application/json
+
+Uri: https://games.smartbot.black/static/css/18.7d31e46d.chunk.css
+File Name: C:\Downloaded Web Sites\games.smartbot.black\static\css\18.7d31e46d.chunk.css
+Content Type: text/css
+
+Uri: https://games.smartbot.black/static/css/main.86ea86eb.chunk.css
+File Name: C:\Downloaded Web Sites\games.smartbot.black\static\css\main.86ea86eb.chunk.css
+Content Type: text/css
+
+Uri: https://games.smartbot.black/static/js/18.aa0a29a4.chunk.js
+File Name: C:\Downloaded Web Sites\games.smartbot.black\static\js\18.aa0a29a4.chunk.js
+Content Type: text/javascript
+
+Uri: https://games.smartbot.black/static/js/main.b1d273be.chunk.js
+File Name: C:\Downloaded Web Sites\games.smartbot.black\static\js\main.b1d273be.chunk.js
+Content Type: text/javascript
+
+Uri: https://mc.yandex.ru/watch/85350406/1
+File Name: C:\Downloaded Web Sites\games.smartbot.black\watch\85350406\1.gif
+Content Type: image/gif
+
